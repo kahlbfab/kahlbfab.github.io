@@ -3,6 +3,9 @@ layout: page
 title: ML Resources
 permalink: /ML/
 ---
+
+# Currently interested interested
+- Deepmind Deeplearning [lectures](https://deepmind.com/learning-resources/deep-learning-lecture-series-2020)
   
 # ML
 - Course: Fullstack deep learning
