@@ -29,3 +29,4 @@ permalink: /ML/
 - SE practices [link](https://ljvmiranda921.github.io/notebook/2020/11/15/data-science-swe/)
 - git (pro git book)
 - bash [cheatsheet](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
+-vim [tutorial](https://lucas.maystre.ch/vim)
